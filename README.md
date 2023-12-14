@@ -1,12 +1,6 @@
 <h1 align="center">BUSCADOR DE RESTAURANTES :fork_and_knife:</h1>
 
 <p align="center">
-  <a href="https://restaurants-search-react.netlify.app" target="_blank">
-    <img 
-         src="" 
-         alt="Buscador de Restaurantes" 
-    />
-  </a>
   <br />
   <i>Buscando restaurantes cercanos. Utilizando React y Google API - Maps y Places.</i>
 </p>
