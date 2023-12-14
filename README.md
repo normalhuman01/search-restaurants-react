@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://restaurants-search-react.netlify.app" target="_blank">
     <img 
-         src="https://raw.githubusercontent.com/lucasrmagalhaes/restaurants_search-react/main/src/assets/restaurant-finder.jpg" 
+         src="" 
          alt="Buscador de Restaurantes" 
     />
   </a>
