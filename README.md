@@ -1,20 +1,20 @@
-<h1 align="center">RESTAURANT FINDER :fork_and_knife:</h1>
+<h1 align="center">BUSCADOR DE RESTAURANTES :fork_and_knife:</h1>
 
 <p align="center">
   <a href="https://restaurants-search-react.netlify.app" target="_blank">
     <img 
          src="https://raw.githubusercontent.com/lucasrmagalhaes/restaurants_search-react/main/src/assets/restaurant-finder.jpg" 
-         alt="Restaurant Finder" 
+         alt="Buscador de Restaurantes" 
     />
   </a>
   <br />
-  <i>Encontrando restaurantes próximos. Utilizando React e Google API - Maps e Places.</i>
+  <i>Buscando restaurantes cercanos. Utilizando React y Google API - Maps y Places.</i>
 </p>
 
 <hr />
 
 <details>
-  <summary><strong>Fontes</strong></summary>
+  <summary><strong>Fuentes</strong></summary>
   
   <br />
   
@@ -22,15 +22,15 @@
     <a href="https://www.npmjs.com/package/styled-reset">Styled-Reset</a> <br />
     <a href="https://github.com/material-components/material-components-web-react/tree/master/packages/text-field">Text-Field</a> <br />
     <a href="https://www.npmjs.com/package/@material/react-material-icon">React-Material-Icon</a> <br />
-    <a href="https://fonts.google.com/specimen/Roboto">Fonts Google - Roboto</a> <br />
+    <a href="https://fonts.google.com/specimen/Roboto">Fuentes de Google - Roboto</a> <br />
     <a href="https://www.npmjs.com/package/react-slick">React-Slick</a> <br />
     <a href="https://www.npmjs.com/package/react-rating-stars-component">React-Rating-Stars</a> <br />
-    <a href="https://pt-br.reactjs.org/docs/portals.html">Portals</a> <br />
+    <a href="https://pt-br.reactjs.org/docs/portals.html">Portales</a> <br />
     <a href="https://developers.google.com/maps/documentation/javascript/places">JavaScript Places</a> <br />
     <a href="https://github.com/fullstackreact/google-maps-react#readme">Google-Maps-React</a> <br />
-    <a href="https://chrome.google.com/webstore/detail/google-maps-platform-api/mlikepnkghhlnkgeejmlkfeheihlehne">Extensão Chrome - Maps</a> <br />
+    <a href="https://chrome.google.com/webstore/detail/google-maps-platform-api/mlikepnkghhlnkgeejmlkfeheihlehne">Extensión de Chrome - Maps</a> <br />
     <a href="https://www.npmjs.com/package/react-lottie">React-Lottie</a> <br />
-    <a href="https://lottiefiles.com/">Lottie Files</a>
+    <a href="https://lottiefiles.com/">Archivos Lottie</a>
   </p>
   
 </details>
@@ -39,7 +39,7 @@
 
 <details>
   
-  <summary><strong>Dependências</strong></summary>
+  <summary><strong>Dependencias</strong></summary>
   
   <br />
 
